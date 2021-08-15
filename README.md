@@ -3,12 +3,12 @@ Data structures and algorithm studies:
 
 -------
 <br>
-<div style="text-align: center;">
+<p align="center" style="text-align: center;">
     <dialog open style="font-weight: bold; margin-right: 5rem">A code kata is an exercise in programming which helps programmers hone their skills through practice   and   repetition.</dialog >
     <br/>
     <img style="border: solid" src="./assets/kata.jfif" width="80%">
     <br/>
-</div>
+</p>
 
 -------------
 <p style="font-size: 1.2em;">
